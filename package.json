@@ -1,0 +1,19 @@
+{
+  "name": "npmtestlibrary",
+  "version": "1.0.0",
+  "description": "tool to speed up ajax call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scrirock-Librairies/npmtestlibrary.git"
+  },
+  "author": "Scrirock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scrirock-Librairies/npmtestlibrary/issues"
+  },
+  "homepage": "https://github.com/Scrirock-Librairies/npmtestlibrary#readme"
+}
