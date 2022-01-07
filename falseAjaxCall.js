@@ -12,4 +12,8 @@ export default class ajaxMaker {
             this.method = method.length in ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'] ? method : 'GET';
         }
     }
+
+    sayHello() {
+        console.log("hello");
+    }
 }
